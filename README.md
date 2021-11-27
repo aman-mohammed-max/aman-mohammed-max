@@ -1,12 +1,4 @@
 ### Hi there 👋
-[Link button](http://example.com/){: .btn }
-
-[Link button](http://example.com/){: .btn .btn-purple }
-[Link button](http://example.com/){: .btn .btn-blue }
-[Link button](http://example.com/){: .btn .btn-green }
-
-[Link button](http://example.com/){: .btn .btn-outline }
-
 <!--
 **aman-mohammed-max/aman-mohammed-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
