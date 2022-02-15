@@ -1,12 +1,8 @@
+body{
+  background-color:#0d1017;
+}
+
 .instagram {
-    background-color: #4CAF50; /* Green */
-  border: none;
-  color: white;
-  padding: 15px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-   /* <-----not checked-----> ☝🏽 */
-   
+  background-color: black;
+  border-radius: 50px;
 }
