@@ -1,4 +1,5 @@
 ### Hi there 👋
 
-![Alt text](down.svg)
+<img src="down.svg">
+
 
