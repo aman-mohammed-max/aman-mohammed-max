@@ -1,9 +1,5 @@
-<h3>Hi there 👋</h3>
-
-<body>
-    <h3>Hi there 👋</h3>
-
-    
+###Hi there 👋
+   
 <svg viewBox="0 0 519 187" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <g id="Frame 2">
 <rect width="518.192" height="187" fill="#0D1117"/>
@@ -68,4 +64,3 @@
 <image id="image1_7_25" data-name="image.png" width="350" height="140" xlink:href="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-mohammed-max&amp;layout=compact&amp;show_icons=true&amp;title_color=ffffff&amp;icon_color=bb2acf&amp;text_color=daf7dc&amp;bg_color=0d1017"/>
 </defs>
 </svg>
-</body>
