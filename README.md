@@ -1,4 +1,4 @@
-# HEY GUYS
+<!-- # HEY GUYS -->
 
 Builder, developer, and someone exploring business through code.
 
@@ -65,6 +65,9 @@ Most of my work is around web products, AI ideas, APIs, and clean developer-focu
   </a>
   <a href="https://www.instagram.com/aman._._mohammed/">
     <img src="https://img.shields.io/badge/Instagram-161b22?style=for-the-badge&logo=instagram&logoColor=E4405F" />
+  </a>
+  <a href="https://t.me/aman_mohammed">
+   <img src="https://img.shields.io/badge/Telegram-161b22?style=for-the-badge&logo=telegram&logoColor=26A5E4" />
   </a>
 </p>
 
