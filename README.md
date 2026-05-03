@@ -19,15 +19,17 @@ Most of my work is around web products, AI ideas, APIs, and clean developer-focu
   <img src="https://img.shields.io/badge/Express-161b22?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-161b22?style=for-the-badge&logo=mongodb&logoColor=47A248" />
 </p>
-
+<!--
 ---
-
+--
 ## About me
-
+--
 - I build products, experiments, and ideas on the web.
 - I enjoy clean UI, fast workflows, and practical systems.
 - I am interested in AI tools, developer products, and startup-style execution.
 - I learn by making, testing, breaking, fixing, and shipping.
+-->
+
 <!--
 ---
 
