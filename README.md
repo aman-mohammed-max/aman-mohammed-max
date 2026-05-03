@@ -28,7 +28,7 @@ Most of my work is around web products, AI ideas, APIs, and clean developer-focu
 - I enjoy clean UI, fast workflows, and practical systems.
 - I am interested in AI tools, developer products, and startup-style execution.
 - I learn by making, testing, breaking, fixing, and shipping.
-
+<!--
 ---
 
 ## Current focus
@@ -37,6 +37,7 @@ Most of my work is around web products, AI ideas, APIs, and clean developer-focu
 - Better UI and smoother developer experience
 - AI-powered tools and useful automation
 - Fast iteration with modern web stacks
+-->
 
 ---
 
